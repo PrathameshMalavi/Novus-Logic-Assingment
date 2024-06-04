@@ -1,6 +1,6 @@
 # space_rockets
 
-A new Flutter project.
+A Flutter project that fetches a list of rockets from an API Endpoint .
 
 ## Getting Started
 
