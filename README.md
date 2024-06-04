@@ -65,14 +65,19 @@ The Space Rockets app relies on the following dependencies:
 - **Google Fonts**: Allows the use of custom fonts in the application.
 - **Cupertino Icons**: Provides iOS style icons for the application's interface.
 
-For detailed dependency versions, refer to the `pubspec.yaml` file.
+
 
 ## Screenshots
+<div align="center">
+  <img src="https://github.com/PrathameshMalavi/Novus-Logic-Assingment/assets/114830029/38a3eaed-37ed-4d7b-86a1-4fc2da15444a" alt="IMG_20240520_191609" width="200" />
+  <img src="https://github.com/PrathameshMalavi/Novus-Logic-Assingment/assets/114830029/11ae6127-82ba-45dc-8efb-dc48074d04dc" alt="IMG_20240520_191616" width="200" />
+  <img src="https://github.com/PrathameshMalavi/Novus-Logic-Assingment/assets/114830029/ed94a353-8352-4c69-892b-d765cc7ee377" alt="IMG_20240520_191635" width="200" />
+</div>
+<div align="center">
+  <img src="https://github.com/PrathameshMalavi/Novus-Logic-Assingment/assets/114830029/f805136d-84d1-4cad-a88c-b5a7a293d9eb" alt="IMG_20240520_191649" width="200" />
+  <img src="https://github.com/PrathameshMalavi/Novus-Logic-Assingment/assets/114830029/a0591a48-8efe-4780-aa1c-dc12466b27ef" alt="IMG_20240520_191705" width="200" />
+</div>
 
-https://drive.google.com/file/d/1FboV13sGelYyC0e_4ljDH8E7EfXjF6ox/view?usp=drive_link, 
-https://drive.google.com/file/d/1Fb0uIXPFN5ko5TYcEmpSDmn4EZptQ0mi/view?usp=drive_link, 
-https://drive.google.com/file/d/1FaI4BiaXQBy88fmVmip6fJ75iXvFj9oE/view?usp=drive_link, 
-https://drive.google.com/file/d/1F_YK5SEq4Ol4x5ITS3WUP2DdwZHGLyWc/view?usp=drive_link, 
-https://drive.google.com/file/d/1FV60diFJuhfowcjX8xFLiUyMaOiOhBeW/view?usp=drive_link
+
 
 
