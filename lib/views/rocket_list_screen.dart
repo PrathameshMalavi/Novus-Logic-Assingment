@@ -1,10 +1,9 @@
-// lib/views/rocket_list_screen.dart
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:provider/provider.dart';
 import '../viewmodels/rockets_viewmodel.dart';
 import 'rocket_list_item.dart';
-import '../models/rocket.dart';
+
 
 class RocketListScreen extends StatelessWidget {
   @override

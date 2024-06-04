@@ -1,4 +1,3 @@
-// lib/models/rocket.dart
 class Rocket {
   final String name;
   final String country;

@@ -1,6 +1,6 @@
-// lib/main.dart
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
+import 'package:space_rockets/views/splash_screen.dart';
 import 'viewmodels/rockets_viewmodel.dart';
 import 'views/rocket_list_screen.dart';
 import 'views/rocket_details_screen.dart';
@@ -25,7 +25,8 @@ class MyApp extends StatelessWidget {
         ),
         initialRoute: '/',
         routes: {
-          '/': (context) => RocketListScreen(),
+          '/': (context) => SplashScreen(),
+          '/rocket_list': (context) => RocketListScreen(),
           '/details': (context) => RocketDetailsScreen(
             rocket: ModalRoute.of(context)!.settings.arguments as Rocket,
           ),

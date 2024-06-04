@@ -1,4 +1,3 @@
-// lib/views/rocket_details_screen.dart
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import '../models/rocket.dart';
