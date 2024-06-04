@@ -11,9 +11,6 @@ A few resources to get you started if this is your first Flutter project:
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 
 
 # Space Rockets App Documentation
@@ -26,6 +23,15 @@ Features
     Rocket Details Screen: Provides detailed information about a specific rocket, including its description, launch date, success rate, and more.
     About SpaceX Screen: Offers insights into SpaceX, its history, missions, and notable achievements.
     About Developer Screen: Introduces the developers behind the Space Rockets app, allowing users to learn more about the team.
+
+### APIs Used
+
+#### Get Rockets API
+- **Description**: Retrieves information about rockets, including their names, descriptions, launch dates, success rates, and other relevant details.
+- **HTTP Method**: GET
+- **Endpoint**: [https://api.spacexdata.com/v4/rockets](https://api.spacexdata.com/v4/rockets)
+- **Parameters**: None
+- **Response Format**: JSON
 
 ## Directory Structure
 
@@ -77,6 +83,11 @@ The Space Rockets app relies on the following dependencies:
   <img src="https://github.com/PrathameshMalavi/Novus-Logic-Assingment/assets/114830029/f805136d-84d1-4cad-a88c-b5a7a293d9eb" alt="IMG_20240520_191649" width="200" />
   <img src="https://github.com/PrathameshMalavi/Novus-Logic-Assingment/assets/114830029/a0591a48-8efe-4780-aa1c-dc12466b27ef" alt="IMG_20240520_191705" width="200" />
 </div>
+
+
+## Contributing
+
+Contributions to the project are welcome. If you encounter any issues or have suggestions for improvements, please feel free to submit a pull request or open an issue on the project's repository.
 
 
 
