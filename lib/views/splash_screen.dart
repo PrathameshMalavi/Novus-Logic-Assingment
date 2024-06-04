@@ -15,7 +15,7 @@ class _SplashScreenState extends State<SplashScreen> {
   @override
   void initState() {
     Timer(Duration(seconds: 1), () {
-      Navigator.pushNamed(context, '/rocket_list');
+      Navigator..popAndPushNamed(context, '/rocket_list');
     });
     super.initState();
   }
