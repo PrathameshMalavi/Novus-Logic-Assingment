@@ -46,7 +46,7 @@ lib
     ├── rocket_details_screen.dart
     ├── rocket_list_item.dart
     ├── rocket_list_screen.dart
-└── main.dart
+    └── main.dart
 
 
 The directory structure of the Space Rockets app is organized as follows:
