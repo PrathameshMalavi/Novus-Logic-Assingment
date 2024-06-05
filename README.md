@@ -35,18 +35,20 @@ Features
 
 ## Directory Structure
 
+```
 lib
 ├── models
 │   └── rocket.dart
 ├── viewmodels
 │   └── rockets_viewmodel.dart
-└── views
-    ├── about_developer_screen.dart
-    ├── about_spacex_screen.dart
-    ├── rocket_details_screen.dart
-    ├── rocket_list_item.dart
-    ├── rocket_list_screen.dart
-    └── main.dart
+├── views
+│   ├── about_developer_screen.dart
+│   ├── about_spacex_screen.dart
+│   ├── rocket_details_screen.dart
+│   ├── rocket_list_item.dart
+│   └──  rocket_list_screen.dart
+└── main.dart
+```
 
 
 The directory structure of the Space Rockets app is organized as follows:
